@@ -1,0 +1,1 @@
+# bir_kelime_bir_islem_odev
