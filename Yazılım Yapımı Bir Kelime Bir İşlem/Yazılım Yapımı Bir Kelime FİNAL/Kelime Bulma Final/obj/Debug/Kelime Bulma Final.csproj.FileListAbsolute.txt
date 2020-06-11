@@ -1,0 +1,29 @@
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.exe.config
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.exe
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.pdb
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csprojAssemblyReference.cache
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime_Bulma_Final.Form1.resources
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime_Bulma_Final.Properties.Resources.resources
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csproj.GenerateResource.cache
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.exe
+C:\Users\Samed\source\repos\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.pdb
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.exe.config
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.exe
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.pdb
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csprojAssemblyReference.cache
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime_Bulma_Final.Form1.resources
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime_Bulma_Final.Properties.Resources.resources
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csproj.GenerateResource.cache
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csproj.CoreCompileInputs.cache
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.exe
+C:\Users\Omer Furkan\Desktop\Kelime Bulma Final\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.pdb
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.exe.config
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.exe
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\bin\Debug\Kelime Bulma Final.pdb
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csprojAssemblyReference.cache
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\obj\Debug\Kelime_Bulma_Final.Form1.resources
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\obj\Debug\Kelime_Bulma_Final.Properties.Resources.resources
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csproj.GenerateResource.cache
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.csproj.CoreCompileInputs.cache
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.exe
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir Kelime FİNAL\Kelime Bulma Final\obj\Debug\Kelime Bulma Final.pdb

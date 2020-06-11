@@ -1,0 +1,28 @@
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.exe.config
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.exe
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.pdb
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.csprojAssemblyReference.cache
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım_Yapmı_Ödev_1.Form1.resources
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım_Yapmı_Ödev_1.Properties.Resources.resources
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.csproj.GenerateResource.cache
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.exe
+C:\Users\Samed\source\repos\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.pdb
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.exe.config
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.exe
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.pdb
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.csprojAssemblyReference.cache
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım_Yapmı_Ödev_1.Form1.resources
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım_Yapmı_Ödev_1.Properties.Resources.resources
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.csproj.GenerateResource.cache
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.exe
+C:\Users\Samed\Desktop\Yazılım Yapmı Ödev 1\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.pdb
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.exe.config
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.exe
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\bin\Debug\Yazılım Yapmı Ödev 1.pdb
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.csprojAssemblyReference.cache
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım_Yapmı_Ödev_1.Form1.resources
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım_Yapmı_Ödev_1.Properties.Resources.resources
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.csproj.GenerateResource.cache
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.csproj.CoreCompileInputs.cache
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.exe
+C:\Users\Omer Furkan\Desktop\Yazılım Yapımı Bir Kelime Bir İşlem\Yazılım Yapımı Bir İşlem VİZE\Yazılım Yapmı Ödev 1\obj\Debug\Yazılım Yapmı Ödev 1.pdb
