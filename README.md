@@ -1,1 +1,1 @@
-# bir_kelime_bir_islem_odev
+# One word One Action game. Written by Omer Furkan BILGE and Samed KAZANIR.
